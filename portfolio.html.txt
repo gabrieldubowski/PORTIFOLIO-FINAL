@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Gabriel Dubowski França - Portfólio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <div class="name">Gabriel Dubowski França</div>
+      <div class="title">Engenheiro de Software</div>
+    </div>
+    <p>Bem-Vindo! Esse é meu portifólio. Sou estudante de Engenharia de Software, com um forte interesse em desenvolver soluções tecnológicas inovadoras. Aos 20 anos, estou sempre em busca de ampliar meus conhecimentos e habilidades através de projetos práticos e experiências acadêmicas. Meu foco está em aprender e aplicar as melhores práticas de programação, arquitetura de software e resolução de problemas complexos. Acredito que a constante evolução é essencial para o crescimento profissional e estou dedicado a me tornar um engenheiro de software altamente capacitado.</p>
+    
+    <div class="skills">
+      <h3>Habilidades</h3>
+      <ul>
+        <li>Desenvolvimento web com HTML5 e CSS3 — Criando layouts modernos e responsivos</li>
+        <li>JavaScript — Transformando ideias em funcionalidades interativas</li>
+        <li>Python — Programação limpa e poderosa, com aquele toque de simplicidade</li>
+        <li>Git & GitHub — Gerenciando código com eficiência e colaborando como um mestre</li>
+        <li>Design de interfaces — Fazendo o usuário se sentir em casa em cada tela</li>
+        <li>Resolução criativa de problemas — Transformando desafios em soluções eficazes</li>
+      </ul>
+    </div>
+
+    <div class="about">
+      <h3>Sobre mim</h3>
+      <p>Sou Gabriel Dubowski França, um entusiasta de tecnologia e estudante de Engenharia de Software. Tenho 20 anos e sou apaixonado por futebol, especialmente pelo Coritiba, meu time do coração. Além disso, gosto de jogar poker, um hobby que me ensina a pensar estrategicamente e a tomar decisões rápidas. Sempre busco aprender e aplicar novas habilidades no meu campo de estudo, com o objetivo de me tornar um profissional completo e inovador.</p>
+    </div>
+
+    <div class="social-buttons">
+      <a class="linkedin" href="https://www.linkedin.com/in/gabriel-dubowski-fran%C3%A7a-b086232b4/">LinkedIn</a>
+      <a class="github" href="https://github.com/gabrieldubowski">GitHub</a>
+      <a class="instagram" href="https://www.instagram.com/gabrieldw__/">Instagram</a>
+      <a class="facebook" href="https://www.facebook.com/profile.php?id=100008280691819">Facebook</a>
+    </div>
+  </div>
+
+  <div class="photo">
+    <img src="Te amo.jpg" alt="Foto de Gabriel Dubowski França">
+  </div>
+</body>
+</html>
